@@ -16,7 +16,7 @@ performance in the previous exams automatically unlike the existing portal.
 # ADVANTAGES 
 1. Automated progress generating system.</br>
 ![Screenshot (52)](https://github.com/Gokulnath-A003/Django-Student-portal/assets/114607666/6eb80db9-2d85-4e96-9af0-fcdd60716cd8)
-2. 2. Interactive and easy user interface.</br>
-3. Timely updating and managing of results.</br>
-4. Encouragement for the students.</br>
-5. Easy progress tracking and decision making for the students and the faculty.
+3. Interactive and easy user interface.</br>
+4. Timely updating and managing of results.</br>
+5. Encouragement for the students.</br>
+6. Easy progress tracking and decision making for the students and the faculty.
